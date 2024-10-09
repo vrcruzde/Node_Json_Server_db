@@ -1,0 +1,14 @@
+{
+  "name": "proyecto_json_server",
+  "version": "0.0.1",
+  "description": "Armaremos servidor con info",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Victor Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
